@@ -378,3 +378,24 @@
 2020-07-12 15:54:50,260 [TestNG-test=Parallel Tests-4] INFO Logger_file - This Title is from IE Execution: Hotel
 2020-07-12 15:54:54,426 [TestNG-test=Parallel Tests-1] INFO Logger_file - This Title is from Chrome Execution: Hotel
 2020-07-12 15:54:54,428 [TestNG-test=Parallel Tests-3] INFO Logger_file - This Title is from Firefox Execution: Hotel
+2020-09-19 23:29:06,185 [main] INFO Logger_file - Start of Execution
+2020-09-19 23:29:15,761 [main] INFO Logger_file - Browser opened successfully
+2020-09-19 23:29:15,762 [main] INFO Logger_file - Test Execution Started
+2020-09-19 23:29:15,780 [main] INFO Logger_file - Test was failed
+2020-09-19 23:29:15,781 [main] INFO Logger_file - method name: assertionTest
+2020-09-19 23:29:17,509 [main] INFO Logger_file - Browser closed
+2020-09-19 23:29:25,226 [main] INFO Logger_file - Browser opened successfully
+2020-09-19 23:29:25,226 [main] INFO Logger_file - Test Execution Started
+2020-09-19 23:29:26,857 [main] INFO Logger_file - Test was failed
+2020-09-19 23:29:26,858 [main] INFO Logger_file - method name: sofAssertionConcept
+2020-09-19 23:29:27,967 [main] INFO Logger_file - Browser closed
+2020-09-19 23:29:36,116 [main] INFO Logger_file - Browser opened successfully
+2020-09-19 23:29:36,116 [main] INFO Logger_file - Test Execution Started
+2020-09-19 23:29:36,763 [main] INFO Logger_file - User clicked on Sign in
+2020-09-19 23:29:36,880 [main] INFO Logger_file - User entered: smokeTest@tekschool.us
+2020-09-19 23:29:36,963 [main] INFO Logger_file - User clicked on Create Account
+2020-09-19 23:29:41,060 [main] INFO Logger_file - Test was failed
+2020-09-19 23:29:41,060 [main] INFO Logger_file - method name: createAccount
+2020-09-19 23:29:41,085 [main] INFO Logger_file - Test was failed
+2020-09-19 23:29:41,087 [main] INFO Logger_file - method name: createAccount
+2020-09-19 23:29:41,094 [main] INFO Logger_file - End of Execution
