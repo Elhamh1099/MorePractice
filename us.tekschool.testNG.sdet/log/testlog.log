@@ -378,3 +378,24 @@
 2020-07-12 15:54:50,260 - Logger_file -INFO - This Title is from IE Execution: Hotel
 2020-07-12 15:54:54,426 - Logger_file -INFO - This Title is from Chrome Execution: Hotel
 2020-07-12 15:54:54,428 - Logger_file -INFO - This Title is from Firefox Execution: Hotel
+2020-09-19 23:29:06,185 - Logger_file -INFO - Start of Execution
+2020-09-19 23:29:15,761 - Logger_file -INFO - Browser opened successfully
+2020-09-19 23:29:15,762 - Logger_file -INFO - Test Execution Started
+2020-09-19 23:29:15,780 - Logger_file -INFO - Test was failed
+2020-09-19 23:29:15,781 - Logger_file -INFO - method name: assertionTest
+2020-09-19 23:29:17,509 - Logger_file -INFO - Browser closed
+2020-09-19 23:29:25,226 - Logger_file -INFO - Browser opened successfully
+2020-09-19 23:29:25,226 - Logger_file -INFO - Test Execution Started
+2020-09-19 23:29:26,857 - Logger_file -INFO - Test was failed
+2020-09-19 23:29:26,858 - Logger_file -INFO - method name: sofAssertionConcept
+2020-09-19 23:29:27,967 - Logger_file -INFO - Browser closed
+2020-09-19 23:29:36,116 - Logger_file -INFO - Browser opened successfully
+2020-09-19 23:29:36,116 - Logger_file -INFO - Test Execution Started
+2020-09-19 23:29:36,763 - Logger_file -INFO - User clicked on Sign in
+2020-09-19 23:29:36,880 - Logger_file -INFO - User entered: smokeTest@tekschool.us
+2020-09-19 23:29:36,963 - Logger_file -INFO - User clicked on Create Account
+2020-09-19 23:29:41,060 - Logger_file -INFO - Test was failed
+2020-09-19 23:29:41,060 - Logger_file -INFO - method name: createAccount
+2020-09-19 23:29:41,085 - Logger_file -INFO - Test was failed
+2020-09-19 23:29:41,087 - Logger_file -INFO - method name: createAccount
+2020-09-19 23:29:41,094 - Logger_file -INFO - End of Execution
